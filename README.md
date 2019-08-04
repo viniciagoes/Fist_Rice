@@ -16,3 +16,4 @@ WM: i3-gapps
 ## My first GitHub directory too
 Don't really know what more to write here, but I'm glad to receive kind suggestions.
 Also, very happy with my color scheme!
+Ps.: (martin-sanchez-x-rqS-3Qi10-unsplash.jpg) is my wallpaper :)

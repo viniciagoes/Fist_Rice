@@ -3,7 +3,9 @@ It's my first rice, I'm very happy for it!
 
 ## Info:
 OS: Endeavour OS
+
 Terminal: Termite
+
 WM: i3-gapps
 
 ## Also used:

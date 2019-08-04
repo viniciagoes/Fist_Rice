@@ -1,0 +1,38 @@
+[options]
+font = Ubuntu Mono 13
+
+[colors]
+
+foreground          = #ffffff
+background          = rgba(45, 36, 22, 0.9)
+
+# Black, Gray, Silver, White
+color0  = #616161
+color8  = #616161
+color7  = #c5c6c8
+color15 = #c5c6c8
+
+# Red
+color1  = #c64c4c
+color9  = #c64c4c
+
+# Green
+color2  = #45a671
+color10 = #45a671
+
+# Yellow
+color3  = #fff05b
+color11 = #fff05b
+
+# Blue
+color4  = #558de8
+color12 = #558de8
+
+# Purple
+color5  = #df80ff
+color13 = #df80ff
+
+# Teal
+color6  = #89b7b1
+color14 = #89b7b1
+

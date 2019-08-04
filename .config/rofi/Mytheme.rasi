@@ -2,6 +2,7 @@
  * ROFI Color theme
  * User: ArcoLinux 
  * Copyright: 2017 leofa
+ This theme was used as a base for the config, this is not my entire code, thanks to Eric Dubois, you should check him out! ;)
  ***********************************************/
 
 * {
